@@ -1,4 +1,4 @@
-# Nível de Instrução dos Candidatos no Acre
+# Nível de Instrução dos Candidatos do Acre
 
 **Objetivo**
 Verificar o nível de instrução dos candidatos e se eles estão se candidatando a reeleição ou não.
