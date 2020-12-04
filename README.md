@@ -9,7 +9,7 @@ Thiago Fernandes Canonici, Euclides Franco de Rezende
 **Requisitos:**
 instalção do python, jupyter notebook, bibliotecas pandas, numpy e matplotlib.pyplot
 
-**Observações**
+**Observações:**
 
 Para instalar o jupyter notebook, usar o código no prompt de comando ou terminal: pip install jupyter notebook
 
