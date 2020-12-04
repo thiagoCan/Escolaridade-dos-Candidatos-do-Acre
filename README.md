@@ -7,4 +7,7 @@ Verificar o nível de instrução dos candidatos e se eles estão se candidatand
 Thiago Fernandes Canonici
 Euclides Franco de Rezende
 
+**Requisitos:**
+instalção do python, jupyter notebook, bibliotecas pandas, numpy e matplotlib.pyplot
+
 
