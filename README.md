@@ -12,7 +12,7 @@ instalção do python, jupyter notebook, bibliotecas pandas, numpy e matplotlib.
 
 **Observações**
 
-Para instalar o jupyter notebook, usar o código no Prompt de comando ou terminal: pip install jupyter notebook
+Para instalar o jupyter notebook, usar o código no prompt de comando ou terminal: pip install jupyter notebook
 
 É a mesmas coisa para as bibliotecas: pip install pandas
 
