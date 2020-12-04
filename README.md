@@ -10,4 +10,12 @@ Euclides Franco de Rezende
 **Requisitos:**
 instalção do python, jupyter notebook, bibliotecas pandas, numpy e matplotlib.pyplot
 
+**Observações**
+
+Para instalar o jupyter notebook, usar o código no Prompt de comando ou terminal: pip install jupyter notebook
+
+É a mesmas coisa para as bibliotecas: pip install pandas
+
+As tabelas csv devem estar na mesma pasta que o arquivo EP4.ipynb
+
 
